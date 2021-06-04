@@ -1,5 +1,5 @@
 # Code-Refactor
-<b> Link to site: </b> https://codingnav.github.io/Code-Refactor/
+<b> Link to site: </b> https://codingnav.github.io/Horiseon-Refactor/
 
 ## About
 <b>Code Refactor</b> is a web application made for Horiseon, a marketing agency. It follows accessibility standards, making it optimized for search engines. 
