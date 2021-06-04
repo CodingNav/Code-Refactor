@@ -13,4 +13,4 @@
 </ul>
 
 ## Preview
-<img src="./develop/assets/images/screenshot.png" alt="Website Screenshot" width="100%">
+<img src="./assets/images/screenshot.png" alt="Website Screenshot" width="100%">
